@@ -1,2 +1,2 @@
 # Baul
-projectos personal
+projectos personales
