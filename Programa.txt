@@ -1,0 +1,3 @@
+debe tener en el escritorio el archivo Programa.cpp y Engine.h
+------------------------------------------------------------------------
+you must place both files, Programa.cpp y Engine.h in your desktop to run
